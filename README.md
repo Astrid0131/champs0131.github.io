@@ -1,3 +1,3 @@
 # BAS2024
-Website for  BAS2024 NSFWorkshop
-https://www.nsf.bas2024.org/
+Website for  BAS2024 CHAMPS Workshop
+https://www.champs.bas2024.org/
